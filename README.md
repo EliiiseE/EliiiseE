@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://www.eliseechasseriau.com)
 
-- 🌱 I’m currently learning **React, NodeJS, RubyOnRails**
+- 🌱 I’m currently learning **Svelte, NodeJS, RubyOnRails**
 
 - 👩‍💻 All of my projects are available at [https://www.eliseechasseriau.com](https://www.eliseechasseriau.com)
 
