@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on a **cryptocurrency wallet**
 
-- 🌱 I’m currently learning **Svelte, NodeJS, RubyOnRails**
+- 🌱 I’m currently learning **AngularJS**
 
 - 👩‍💻 All of my projects are available at [https://www.eliseechasseriau.com](https://www.eliseechasseriau.com)
 
-- 🎨 I regularly post design on [https://www.behance.net/eliseechasse](https://www.behance.net/eliseechasse)
+- 🎨 I regularly post some drawing on [https://dribbble.com/echasseriau-elise](https://dribbble.com/echasseriau-elise)
 
 - 📫 How to reach me **contact@eliseechasseriau.com**
 
