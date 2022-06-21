@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AngularJS**
 
-- 👩‍💻 All of my projects are available at [https://www.eliseechasseriau.com](https://www.eliseechasseriau.com)
+- 👩‍💻 Most of my projects are available at [https://www.eliseechasseriau.com](https://www.eliseechasseriau.com)
 
 - 🎨 I regularly post some drawing on [https://dribbble.com/echasseriau-elise](https://dribbble.com/echasseriau-elise)
 
